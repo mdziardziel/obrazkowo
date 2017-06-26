@@ -1,0 +1,3 @@
+<%= render 'home/header' %>
+<h1>O mnie...</h1>
+<p>Nazywam się (tu Twoje imię) i tworzę aplikację Obrazkowo</p>
